@@ -1,0 +1,42 @@
+What you'll learn
+- viruses
+- Malware
+- Social Engineering 
+- digital Age
+- Security Domains
+
+Computer Virus
+Malicious code written to interfere with computer operations and cause damage to data and software
+
+Malware
+Software designed to harm devices or networks
+
+CISSP 
+Has been defined as 8 domains
+
+Security and risk management
+	- Defines security goals and objectives, risk mitigation, compliance, business continuity, and the law
+Asset security
+
+	-Secures digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data 
+
+Security architecture and engineering
+	-Optimizes data security by ensuring effective tools, systems, and processes are in place
+
+Communications and netowrk security
+	- Manage and secure physical networks and wireless communications
+
+Identiy and access management
+	-Keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as netowrks and applications 
+
+Security assessment and testing
+	-Conducting securtiy control testing, collecting and analyzing data, and conducting securtiy audits to monitor for risks, threats, and vulnerabilities
+
+security operations
+	-Conducing investions and implementing preventative measure
+
+software development security
+	- Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services
+
+
+
