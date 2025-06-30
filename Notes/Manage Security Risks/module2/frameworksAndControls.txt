@@ -1,0 +1,41 @@
+What i will learn
+    -frameworks
+    - controls
+    - design prinsiples
+
+Security frameworks
+ - guidelines used for building plans to help mitigate risk and threats to data and privacy
+
+ Security controls
+ - Safeguards designed to reduce specific Security risks
+
+ Encryption
+    - the process of converting data from a readable format to an encoded format
+
+Authentication
+    - the process of verifying who someone or something is
+
+Biometrics 
+    - Unique physical charactersistics that can be used to verify a person's identity
+
+Authorization
+    -The concept of granting access to specific resources within a system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
