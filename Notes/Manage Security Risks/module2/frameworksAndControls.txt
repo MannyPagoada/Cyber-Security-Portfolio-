@@ -39,13 +39,23 @@ Respond
 
 Recover
     - The process of returning affected systems back to normal operation
-    
 
 
 
+OWASP security prinsiples
+    - Minimize attack surface area
+    - princples of minium access
+    - defence in dept
+    - seperation of duties
+    - keep securit simple 
 
 
-
+Common elements of internal audits
+    - stablishg the scope and goals
+    - conducting a risk assessment
+    - Completing a contrls assessment
+    - assessing compliance
+    - commuicating results
 
 
 
