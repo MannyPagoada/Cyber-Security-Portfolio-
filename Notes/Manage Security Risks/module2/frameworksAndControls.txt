@@ -22,20 +22,36 @@ Authorization
     -The concept of granting access to specific resources within a system
 
 
+NIST frameworks
+Identify
+    - The management of cybersecurity risk and its effect n an organization's people and assests
+
+Project
+    - The strategy used to protect an organization through the implentation of policies, procedures, training, and tools that help mitigate cybersecurity threats
+
+Detect
+    - Identify potential security incidents and improving monitoring capabailities to increas the speed and efficiency of detections
 
 
+Respond
+    - Making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security process
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Recover
+    - The process of returning affected systems back to normal operation
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
