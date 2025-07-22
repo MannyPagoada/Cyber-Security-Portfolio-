@@ -1,0 +1,14 @@
+What is the purpose of a security framework?
+Build plans to help mitigate risks and threats to data and privacy
+
+Fill in the Blank: An employee using multi-factor authentication to verify their identity is an example of the authentication process
+
+A persons fingerrprint,eye... are examples of what?
+Biometrics
+
+Question 5
+
+Which of the following statements accurately describe the CSF? Select all that apply.
+
+Not (The protect function of the CSF involves returning affected systems back to normal operation)
+
